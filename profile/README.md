@@ -1,6 +1,6 @@
 # AI Manifesto Organization
 
-Welcome to ai manifest.dev. This is the a GitHub organization to promote principles of responsible AI development and collaboration. The manifesto can be signed and shared. A badge for your commitment can be linked, too.
+Welcome to ai [manifest.dev](https://ai-manifesto.dev). This is the a GitHub organization to promote principles of responsible AI development and collaboration. The manifesto can be signed and shared. A badge for your commitment can be linked, too.
 
 ## Frequently Asked Questions
 
